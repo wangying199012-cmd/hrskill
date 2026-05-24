@@ -1,6 +1,6 @@
 ---
 name: hr-query
-description: 德创数字人事库查询。当用户询问德创公司的员工信息、部门信息、人事信息时触发，如「营销中心有几个人」「查一下智能装备部」「德创有多少员工」「某部门有哪些人」「某人是哪个部门的」「德创人事库」等。所有关于德创公司员工信息的查询都应该使用此 skill。Also triggers when user shares or references a CSV/Excel file about employee data and wants to search or analyze it.
+description: 德创数字人事库查询。当用户询问德创数字公司的员工信息、部门信息、人事信息时触发，如「营销中心有几个人」「查一下智能装备部」「德创有多少员工」「某部门有哪些人」「某人是哪个部门的」「德创人事库」等。所有关于德创公司员工信息的查询都应该使用此 skill。Also triggers when user shares or references a CSV/Excel file about employee data and wants to search or analyze it.
 ---
 
 # HR Query Skill
